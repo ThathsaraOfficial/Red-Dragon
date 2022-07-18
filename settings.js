@@ -20,7 +20,7 @@ global.APIKeys = {
 //customize settings\\
 
 global.alivemsg = `My name is 𝙸𝚗𝚍𝚞𝚠𝚊𝚛𝚊 𝙾𝚏𝚏𝚒𝚌𝚒𝚊𝚕🔥
-My Creator is Kumuthu Prabhasha😎` //Costomize Alive Message (type your message in `` )
+My Creator is Induwara Thathsara😎` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+94764247716'] //Owner number in aive msg
 global.premium = ['+94764247716'] //Owner Number info
@@ -40,7 +40,7 @@ global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
 global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.footer = '©_Induwara.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 global.ig = 'https://github.com/ThathsaraOfficial' //Github Account!
