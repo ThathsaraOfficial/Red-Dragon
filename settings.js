@@ -34,7 +34,7 @@ global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
-global.packname = '☬RED༒DRAGON࿐' //Bot Pacage Name
+global.packname = '𝙄𝙣𝙙𝙪𝙬𝙖𝙧𝙖 𝙒𝙝𝙖𝙩𝙨𝙖𝙥𝙥 𝙐𝙨𝙚𝙧 𝘽𝙤𝙩' //Bot Pacage Name
 global.author = '😎𝙄𝙣𝙙𝙪𝙬𝙖𝙧𝙖 𝙏𝙝𝙖𝙩𝙝𝙨𝙖𝙧𝙖❯❯' //Author Name
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
